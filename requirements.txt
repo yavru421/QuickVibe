@@ -1,0 +1,3 @@
+streamlit>=1.45.0
+groq>=0.4.0
+typing-extensions>=4.13.0
