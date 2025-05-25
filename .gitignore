@@ -8,6 +8,10 @@ __pycache__/
 env/
 *.env
 
+# Groq Reference
+# (ignore the whole directory and its contents)
+groq_reference/
+
 # Logs
 *.log
 application.log
@@ -31,4 +35,3 @@ Thumbs.db
 *.tmp
 
 role_call.py
-groq_reference/
