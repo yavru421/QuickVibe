@@ -4,6 +4,8 @@
 
 **👉 [Launch QuickVibe App Instantly!](https://quickvibe.streamlit.app/)**
 
+[![QuickVibe Demo Video](https://img.youtube.com/vi/2GIHMoPf6Y4/hqdefault.jpg)](https://youtube.com/shorts/2GIHMoPf6Y4?feature=share)
+
 QuickVibe is a modern, youth-focused AI app for generating instant, high-vibe text message responses. Powered by Groq's blazing-fast Llama/Mixtral models, QuickVibe helps you craft witty, savage, supportive, dry, flirty, or chill replies for any situation.
 
 ---
